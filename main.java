@@ -3,7 +3,7 @@ package Amstrong2;
 import javax.swing.*;
 import java.util.Scanner;
 
-public class main {
+public class Amstrong{
     public static void main(String[] args)
     {
         System.out.println("enter your value");
@@ -23,7 +23,7 @@ public class main {
         }
         else
         {
-            System.out.println("It is not a amtrong number");187
+            System.out.println("It is not a amtrong number");
         }
     }
 }
